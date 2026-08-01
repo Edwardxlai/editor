@@ -1,0 +1,121 @@
+{
+  "suggestions": [
+    {
+      "note_id": "note_06",
+      "verdict": "可用",
+      "matched_segments": [
+        {
+          "seg_id": "note_06#08",
+          "claim": "德雷福斯认为人类技能活动是整体性姿态，无法被分解为规则。",
+          "matched_point": "P05",
+          "why": "说明人类智能无法被语言模型完全编码，直接支持“AI仍处1.0版本、语言有损”的判断。"
+        },
+        {
+          "seg_id": "note_06#09",
+          "claim": "默会知识是知道但说不出来的知识，AI作为语言模型无法掌握它。",
+          "matched_point": "P05",
+          "why": "默会知识正是语言无法覆盖的部分，佐证AI基于语言的局限。"
+        },
+        {
+          "seg_id": "note_06#10",
+          "claim": "人的默会知识水平决定了AI的能力上限，因为AI无法补充这部分知识。",
+          "matched_point": "P06",
+          "why": "直接说明AI能力受制于人，反驳“智能成本归零”的简化论。"
+        }
+      ],
+      "place_in_article": "放在新文章“AI的边界：语言有损与默会知识”一节，对应P05/P06。",
+      "how_to_use": "引用默会知识概念作为论据，支撑“AI是1.0版本”和“智能不能归零”的核心观点。",
+      "how_not_to_use": "不要用于具体AI能力或市场判断的断言，仅作为认知框架和哲学背景。",
+      "quote_scope_verbatim": "商业笔记、内部培训资料、知识库构建、AI产业战略研究",
+      "limit": null,
+      "needs_editor_confirm": null
+    },
+    {
+      "note_id": "note_03",
+      "verdict": "有限复用",
+      "matched_segments": [
+        {
+          "seg_id": "note_03#04",
+          "claim": "人类关于审美、价值判断和体验等超验内容，是无法用语言描述、AI也无法处理的。",
+          "matched_point": "P05",
+          "why": "与默会知识同理，说明语言模型的边界，支持“AI仍处1.0版本”。"
+        },
+        {
+          "seg_id": "note_03#08",
+          "claim": "AI对GDP的实际贡献不到2%，人们的焦虑并非来自AI，而是来自对高速增长放缓的不适应。",
+          "matched_point": "P04",
+          "why": "用实际贡献数据平衡极端叙事，为“中间立场”提供论据。"
+        }
+      ],
+      "place_in_article": "放在“公共讨论的两极分化”和“AI的边界”相关的两个小节。",
+      "how_to_use": "用“AI对GDP贡献不到2%”缓解夸大叙事，用“超验内容不可语言化”补充AI边界论证。",
+      "how_not_to_use": "不要把GDP数据当作当前事实断言，需二次核实；不要将超验内容泛化为“AI永远做不到一切”。",
+      "quote_scope_verbatim": "可作为思维方式和判断框架参考；涉及具体行业趋势、岗位变化或商业结论时需二次核实",
+      "limit": "默会知识观点可作框架，GDP数据为事实性说法，需核实最新性后再用。",
+      "needs_editor_confirm": "确认GDP数据是否有更新版本，以及能否支撑“焦虑来自增长放缓”的归因。"
+    },
+    {
+      "note_id": "note_07",
+      "verdict": "可用",
+      "matched_segments": [
+        {
+          "seg_id": "note_07#02",
+          "claim": "编程已被AI解决，程序员不写代码成为AI原生公司的判断标准。",
+          "matched_point": "P14",
+          "why": "说明编程门槛大幅降低，直接佐证产品经理“感觉式编程”和自建原型的可行性。"
+        }
+      ],
+      "place_in_article": "放在“产品经理从指挥家变成自建原型者”一节。",
+      "how_to_use": "用“编程已被AI解决”作为背景趋势，增强P14案例的可信度。",
+      "how_not_to_use": "不要断言所有程序员都已不写代码，需保留“AI原生公司”的限定。",
+      "quote_scope_verbatim": "商业笔记、内部培训资料、知识库构建",
+      "limit": null,
+      "needs_editor_confirm": "确认“AI原生公司”标准是否适用于本次访谈语境。"
+    },
+    {
+      "note_id": "note_08",
+      "verdict": "有限复用",
+      "matched_segments": [
+        {
+          "seg_id": "note_08#01",
+          "claim": "能力可以被快速习得，环境比经验更重要。",
+          "matched_point": "P03",
+          "why": "解释CEO带员工走一遍所创造的环境为何能有效解锁员工能力。"
+        }
+      ],
+      "place_in_article": "放在“带员工走一遍AI流程”一节，作为机制说明。",
+      "how_to_use": "用“环境比经验更重要”来解释陪伴式培训的效果来源，辅助P03案例。",
+      "how_not_to_use": "不要将技术公司场景直接套用到所有行业，且避免引用该篇其他关于AGI预测的冲突观点。",
+      "quote_scope_verbatim": "商业笔记、内部培训资料、知识库构建、行业研究报告、无特定身份指向的公开引用",
+      "limit": "仅限“环境比经验更重要”这一观点，且其来自技术公司访谈，适用性需编辑判断。",
+      "needs_editor_confirm": "确认该观点对非技术行业团队管理的适用性。"
+    },
+    {
+      "note_id": "note_01",
+      "verdict": "有限复用",
+      "matched_segments": [
+        {
+          "seg_id": "note_01#06",
+          "claim": "[已脱敏]的神手不是AI创造，AI只是观察者和捷径。",
+          "matched_point": "P06",
+          "why": "说明AI并非真正产生智能，支持“智能成本归零”是不负责任的论点。"
+        }
+      ],
+      "place_in_article": "放在“智能成本不会归零”一节，作为历史观点参照。",
+      "how_to_use": "用“AI只是观察者”来强化人类智能的不可替代性，呼应P06。",
+      "how_not_to_use": "因日期为2023，不能作为当前AI能力的事实依据，仅作哲学背景。",
+      "quote_scope_verbatim": "仅可作为历史背景或观点参照；不建议作为当前 AI 工具落地、模型能力或市场判断的事实依据",
+      "limit": "仅限历史参照，不可作为事实依据。",
+      "needs_editor_confirm": null
+    }
+  ],
+  "no_match_reason": null,
+  "excluded_same_source": [
+    {
+      "note_id": "note_02",
+      "title": "关于AI、能动性与未来的对话",
+      "coverage": 0.8913
+    }
+  ],
+  "candidate_count": 7
+}
